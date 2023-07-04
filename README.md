@@ -13,13 +13,7 @@ I am  __Goh Eg Su__, and I work as a lecturer at [Universiti Teknologi Malaysia]
 - [Programming Technique II](https://github.com/EgSu84/FCG.md)
 
 ## 👨‍💻 Anything to do with research
-- [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
-- [Undergraduate projects](https://github.com/drshahizan/undergraduate-project)
-- [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
-- [Learn Github](https://github.com/drshahizan/learn-github)
-- [Research Material](https://github.com/drshahizan/research-material)
-  -   [Systematic Review: PRISMA 2020](https://github.com/drshahizan/research-material/tree/main/SLR)
-  -   [myTOR](https://github.com/drshahizan/myTOR)
+- None
 
 ### 🙌🏻 Connect with Me
 <p align="left">
