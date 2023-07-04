@@ -1,5 +1,5 @@
-![GitHub Follow](https://img.shields.io/github/followers/drshahizan.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/drshahizan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![GitHub Follow](https://img.shields.io/github/followers/EgSu84.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/EgSu84?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
@@ -17,9 +17,8 @@ I am  __Goh Eg Su__, and I work as a lecturer at [Universiti Teknologi Malaysia]
 
 ### 🙌🏻 Connect with Me
 <p align="left">
-    <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/drshahizan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-drshahizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/"></a>
-    <a href="mailto:shahizan@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-shahizan@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com"></a>
+    <a href="https://github.com/EgSu84" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@EgSu84-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="mailto:eg.su@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-eg.su@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eg.su@utm.my.com"></a>
     <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
