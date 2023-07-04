@@ -19,8 +19,6 @@ I am  __Goh Eg Su__, and I work as a lecturer at [Universiti Teknologi Malaysia]
 <p align="left">
     <a href="https://github.com/EgSu84" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@EgSu84-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="mailto:eg.su@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-eg.su@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eg.su@utm.my.com"></a>
-    <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
   
 
